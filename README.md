@@ -1,1 +1,3 @@
 # discord_bot
+
+This bot help to encourage you....
